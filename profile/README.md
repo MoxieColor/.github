@@ -1,4 +1,4 @@
-# .github# MoxieColor Studio
+# .github# Moxie Color Studio
 
 **Logic is found in the chaos around us.**  
 Art, digital products, and surface design by **Jennifer Chin**.
