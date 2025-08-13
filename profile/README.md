@@ -11,6 +11,6 @@ Art, digital products, and surface design by **Jennifer Chin**.
 - 🌐 Website: https://moxiecolor.com
 - 🛍️ Etsy: https://moxiecolor.etsy.com
 - ✉️ Newsletter: https://moxiecolor.com/newsletter/
-- 📧 Contact: youremail@example.com
+- 📧 Contact: jchin@moxiecolor.com
 
 *Color. Courage. Curiosity.*
